@@ -1,6 +1,3 @@
 [submodule "study_Ignite_React_Challenge-01"]
 	path = study_Ignite_React_Challenge-01
 	url = git@github.com:KesleyDavid/study_Ignite_React_Challenge-01.git
-[submodule "study_Ignite_React_Challenge-01-02"]
-	path = study_Ignite_React_Challenge-01-02
-	url = git@github.com:KesleyDavid/study_Ignite_React_Challenge-01-02.git
